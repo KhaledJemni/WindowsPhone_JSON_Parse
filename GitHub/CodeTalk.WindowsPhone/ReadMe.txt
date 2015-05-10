@@ -1,0 +1,1 @@
+﻿This is an example that shows consuming a JSON file, showing the result in a list bx and on a map
